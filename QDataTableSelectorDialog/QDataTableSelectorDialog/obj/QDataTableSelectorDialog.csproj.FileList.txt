@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Qazi.GUI.CommonDialogs.DataTableSelectorWnd.resources
+obj\Debug\QDataTableSelectorDialog.csproj.GenerateResource.Cache
+bin\Debug\QDataTableSelectorDialog.dll
+bin\Debug\QDataTableSelectorDialog.pdb
+obj\Debug\QDataTableSelectorDialog.dll
+obj\Debug\QDataTableSelectorDialog.pdb
+bin\Release\QDataTableSelectorDialog.dll
+bin\Release\QDataTableSelectorDialog.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Qazi.GUI.CommonDialogs.DataTableSelectorWnd.resources
+obj\Release\QDataTableSelectorDialog.csproj.GenerateResource.Cache
+obj\Release\QDataTableSelectorDialog.dll
+obj\Release\QDataTableSelectorDialog.pdb

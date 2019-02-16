@@ -1,0 +1,7 @@
+G:\Ph. D. Code Base\QDataTableSelectorDialog\QDataTableSelectorDialog\bin\Debug\QDataTableSelectorDialog.dll
+G:\Ph. D. Code Base\QDataTableSelectorDialog\QDataTableSelectorDialog\bin\Debug\QDataTableSelectorDialog.pdb
+G:\Ph. D. Code Base\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\ResolveAssemblyReference.cache
+G:\Ph. D. Code Base\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\Qazi.GUI.CommonDialogs.DataTableSelectorWnd.resources
+G:\Ph. D. Code Base\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\QDataTableSelectorDialog.csproj.GenerateResource.Cache
+G:\Ph. D. Code Base\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\QDataTableSelectorDialog.dll
+G:\Ph. D. Code Base\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\QDataTableSelectorDialog.pdb

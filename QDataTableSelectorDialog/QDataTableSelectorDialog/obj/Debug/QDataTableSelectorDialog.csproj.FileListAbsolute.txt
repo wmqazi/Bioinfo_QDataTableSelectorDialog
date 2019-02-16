@@ -1,0 +1,8 @@
+C:\Wajahat\Bioinformatics\QDataTableSelectorDialog\QDataTableSelectorDialog\bin\Debug\QDataTableSelectorDialog.dll
+C:\Wajahat\Bioinformatics\QDataTableSelectorDialog\QDataTableSelectorDialog\bin\Debug\QDataTableSelectorDialog.pdb
+C:\Wajahat\Bioinformatics\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\ResolveAssemblyReference.cache
+C:\Wajahat\Bioinformatics\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\Qazi.GUI.CommonDialogs.DataTableSelectorWnd.resources
+C:\Wajahat\Bioinformatics\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Wajahat\Bioinformatics\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Wajahat\Bioinformatics\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\QDataTableSelectorDialog.dll
+C:\Wajahat\Bioinformatics\QDataTableSelectorDialog\QDataTableSelectorDialog\obj\Debug\QDataTableSelectorDialog.pdb
